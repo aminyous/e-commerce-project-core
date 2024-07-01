@@ -1,0 +1,5 @@
+/Users/dev/Desktop/e-commerce-formation/back/coreService/src/main/java/com/hichinfo/coreService/CoreServiceApplication.java
+/Users/dev/Desktop/e-commerce-formation/back/coreService/src/main/java/com/hichinfo/coreService/controllers/CommandeController.java
+/Users/dev/Desktop/e-commerce-formation/back/coreService/src/main/java/com/hichinfo/coreService/entites/Commande.java
+/Users/dev/Desktop/e-commerce-formation/back/coreService/src/main/java/com/hichinfo/coreService/repositories/CommandeRepository.java
+/Users/dev/Desktop/e-commerce-formation/back/coreService/src/main/java/com/hichinfo/coreService/services/CommandeService.java

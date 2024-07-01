@@ -1,0 +1,5 @@
+com/hichinfo/coreService/repositories/CommandeRepository.class
+com/hichinfo/coreService/services/CommandeService.class
+com/hichinfo/coreService/CoreServiceApplication.class
+com/hichinfo/coreService/entites/Commande.class
+com/hichinfo/coreService/controllers/CommandeController.class
