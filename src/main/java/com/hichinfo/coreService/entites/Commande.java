@@ -18,4 +18,5 @@ public class Commande {
     private Long id;
     private String client;
     private List<Long> produits;
+    private Double fakeDouble;
 }
